@@ -24,6 +24,9 @@ Add URL-based news detection
 Show confidence percentage 
 Use deep learning models like LSTM
 Supports multiple languages..
+
+
+
 Project URL: https://beacon-verify-ai.lovable.app
 Github URL:
 
