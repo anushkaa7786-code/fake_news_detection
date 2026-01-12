@@ -28,6 +28,8 @@ Supports multiple languages..
 
 
 Project URL: https://beacon-verify-ai.lovable.app
-Github URL:
+
+
+Github URL:https://github.com/anushkaa7786-code/fake_news_detection/blob/main/README.md
 
 
